@@ -1,8 +1,9 @@
 # Hangman
 Game for fun, guess the words
 ## Installation:
-    git clone https://github.com/zarina86/hangman.git
     git clone git@github.com:zarina86/hangman.git
+---    
+    git clone https://github.com/zarina86/hangman.git
 ## How to execute:
 #### После скачивания программы на ваш компьютер откройте консоль и выполните следующие команды:
     cd hangman

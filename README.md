@@ -5,16 +5,14 @@ Game for fun, guess the words
 ---    
     git clone https://github.com/zarina86/hangman.git
 ## How to execute:
-#### После скачивания программы на ваш компьютер откройте консоль и выполните следующие команды:
+#### Run the following commands:
     cd hangman
     ruby main.rb
-#### Правила игры:
-1. Программа загадывает слово, и показывает сколько в нем букв.
-2. Можно сделать 7 ошибок.
-3. Игрок вводит буквы по одной.
-4. После каждой ошибки дорисовывается виселица.
-5. Если слово отгадано полностью, то игрок победил.
-6. Если игрок угадал букву, программа показывает сколько раз и на каких местах в 
-слове эта буква встречается.
-5. Если игрок не угадал букву, то программа засчитывает ошибку.
-   
+#### The game rules:
+1. The program asks player to guess the word and shows how many letters it has.
+2. Player/gamer has 7 tries to figure out the word.
+3. Player types letters one by one.
+4. For each letter the player guesses wrong the gallows will be drawn.
+5. If player guessed the full word he/she won.
+6. If the player guesses a correct letter,the program shows how many times and where this letter appears in the word.
+5. If player didn't guess the letter the program counts as a mistake.

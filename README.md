@@ -2,10 +2,12 @@
 Game for fun, guess the words
 ## Installation:
 To install the game program use ```git clone``` command.
+    gem install bundler
+    bundle install
 ## How to execute:
 #### Run the following commands:
     cd hangman
-    ruby main.rb
+    ruby hangman.rb
 #### The game rules:
 1. The program asks player to guess the word and shows how many letters it has.
 2. Player/gamer has 7 tries to figure out the word.

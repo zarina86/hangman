@@ -20,7 +20,7 @@ Install required dependencies
     bundle install    
     
 ## How to execute:
-#### Run the following commands:
+#### Run the following command:
     bundle exec ruby hangman.rb
 #### The game rules:
 1. The program asks player to guess the word and shows how many letters it has.

@@ -43,6 +43,8 @@ class Game
   def word
     @letters.join
   end
+  
+  private
 
   def normalize_letter(letter)
     letter.gsub(/[ЁЙ]/, 'Ё' => 'Е', 'Й' => 'И')

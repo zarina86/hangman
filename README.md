@@ -18,10 +18,12 @@ Install bundler to your project
 Install required dependencies
 
     bundle install    
-    
+  
 ## How to execute:
 #### Run the following command:
     bundle exec ruby hangman.rb
+## How to add new words:
+  You can add new words to the [words.txt](https://github.com/zarina86/hangman/blob/master/data/words.txt) file.
 #### The game rules:
 1. The program asks player to guess the word and shows how many letters it has.
 2. Player/gamer has 7 tries to figure out the word.
